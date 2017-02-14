@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2017/02/15/en/</loc>
+    
+    <lastmod>2017-02-14T11:25:44.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/02/14/haha/</loc>
+    
+    <lastmod>2017-02-14T11:25:44.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-02-14T07:07:59.583Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-02-14T07:06:32.224Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/02/13/hello-world/</loc>
+    
+    <lastmod>2017-02-13T04:32:28.689Z</lastmod>
+    
+  </url>
+  
+</urlset>
