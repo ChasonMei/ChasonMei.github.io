@@ -5478,7 +5478,6 @@
  }
  
  .ui.header>.icon+.content {
- 	 text-shadow: 0 0 20px black;
      padding-left: .75rem;
      display: table-cell;
      vertical-align: middle

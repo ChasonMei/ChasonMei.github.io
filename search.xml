@@ -3,6 +3,139 @@
   
     
     <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(7)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(12)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(6)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(11)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(5)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(10)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(4)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(9)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(3)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(8)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%20(2)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(7)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F15%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(6)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(5)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(4)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(3)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test2]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%20(2)%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Code test]]></title>
+      <url>%2F2017%2F02%2F15%2Fhaha%20-%20%E5%89%AF%E6%9C%AC%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Code test]]></title>
       <url>%2F2017%2F02%2F15%2Fen%2F</url>
       <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate code123456789101112131415161718192021222324252627282930//基础习题2#include &lt;stdlib.h&gt;#include &lt;stdio.h&gt;int main(int argc, char const *argv[])&#123; int num_man; int num_woman; int num_child; int sum; for (num_man = 1; num_man &lt;= 30; num_man++) &#123; for (num_woman = 1; num_woman &lt;= 30 - num_man; num_woman++) &#123; for (num_child = 1; num_child &lt;= 30 - num_man - num_woman; num_child++) &#123; sum = 3 * num_man + 2 * num_woman + 1 * num_child; if (50 == sum) &#123; printf("man=%d, woman=%d, child=%d, sum=%d\n", num_man, num_woman, num_child, sum); &#125; &#125; &#125; &#125; system("pause"); return 0;&#125;]]></content>
